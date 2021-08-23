@@ -1,0 +1,10 @@
+.suggested-tweet-stream,
+.has-profile-suggested-tweet,
+.promoted-tweet,
+.promoted-account {
+  display: none;
+}
+
+section[aria-label="Sign up"]{
+  border: 10px solid green;
+}

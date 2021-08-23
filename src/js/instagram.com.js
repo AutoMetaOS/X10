@@ -1,0 +1,1 @@
+setTimeout( () => document.querySelector( 'main section' ).childNodes[ 2 ].remove(), 1000 );

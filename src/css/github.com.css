@@ -1,0 +1,9 @@
+.previewable-comment-form textarea {
+  min-height: 300px;
+  max-height: none;
+  font-size: 12px;
+}
+
+aside[aria-label="Explore"]{
+  display: none;
+}

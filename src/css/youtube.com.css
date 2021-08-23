@@ -1,0 +1,15 @@
+*::-webkit-scrollbar { display:none}
+#related{
+    display: none;
+}
+ytd-comments{
+    display: none;
+}
+#footer{
+    display: none;
+}
+
+video{
+    min-height: 600px;
+    height: 80%;
+}
