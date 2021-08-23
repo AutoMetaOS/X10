@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" font-weight="700" font-size="240" font-family="Helvetica">
-  <rect fill="#fc7c00" x="0" y="0" width="630" height="630" />
-  <text x="60" y="380">AMX</text>
-  <text x="330" y="590">10</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Helvetica" font-size="240" font-weight="700" viewBox="0 0 630 630"><rect width="630" height="630" x="0" y="0" fill="#fc7c00"/><text x="60" y="380">AMX</text><text x="330" y="590">10</text></svg>
