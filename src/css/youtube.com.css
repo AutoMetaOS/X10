@@ -13,3 +13,28 @@ video{
     min-height: 600px;
     height: 80%;
 }
+
+ytd-info-panel-container-renderer{
+    display: none;
+}
+
+/* video menu */
+#menu-container{
+    display: none;
+}
+
+/* menu bar Account details */
+menu-container #end{
+    display: none;
+}
+
+/* Input Box border and bg */
+form #container{
+    border: none;
+    background: transparent;
+}
+
+/* Search Icon and Voice Search Icon */
+#search-icon-legacy, #voice-search-button{
+    display: none;
+}

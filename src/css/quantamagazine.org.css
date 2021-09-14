@@ -1,7 +1,3 @@
-#paywall-background-color{
-    display: none;
-}
-
 p{
     transition: opacity 0.1s ease;
     opacity:0.33;

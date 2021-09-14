@@ -1,5 +1,7 @@
 # AMX10 (AutoMetaOS WebExtensions)
-![AMX10](./src/icon/AMX10.svg)
+<div align="center">
+    <img src="./src/icon/AMX10.svg" alt="AMX10" width="100px" height="100px"/>
+</div>
 
 ## Folder Structure
 Root by default is for Safari \
