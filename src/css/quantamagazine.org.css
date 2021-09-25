@@ -5,3 +5,11 @@ p{
 p:hover{
     opacity:1;
 }
+
+.container--xs{
+    max-width: 1200px;
+}
+
+aside.post__sidebar:last-of-type{
+    display: none;
+}
