@@ -1,7 +1,9 @@
-# AMX10 (AutoMetaOS WebExtensions)
+# X10
 <div align="center">
-    <img src="./src/icon/AMX10.svg" alt="AMX10" width="100px" height="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/AutoMetaOS/UI@latest/icons/x10.svg" alt="amos" width="300px" height="300px"/>
 </div>
+
+# AutoMetaOS WebExtension
 
 ## Folder Structure
 Root by default is for Safari \
