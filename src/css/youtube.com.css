@@ -9,10 +9,6 @@ ytd-comments{
     display: none;
 }
 
-video{
-    min-height: 600px;
-    height: 80%;
-}
 
 ytd-info-panel-container-renderer{
     display: none;
@@ -37,4 +33,17 @@ form #container{
 /* Search Icon and Voice Search Icon */
 #search-icon-legacy, #voice-search-button{
     display: none;
+}
+
+ytd-rich-grid-renderer #header{
+    display: none;
+}
+
+#columns #secondary{
+    display: none;
+}
+
+#primary.ytd-watch-flexy{
+max-width:100% !important;
+width:100% !important;
 }

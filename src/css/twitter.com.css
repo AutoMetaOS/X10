@@ -6,5 +6,9 @@
 }
 
 section[aria-label="Sign up"]{
-  border: 10px solid green;
+  display:none;
+}
+
+*div[role="group"]{
+  display:none;
 }

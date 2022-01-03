@@ -6,7 +6,7 @@ safari.self.addEventListener( "message", ( { name, message } ) => {
 
 
 const logStyle = 'color:dodgerblue;border:1px solid dodgerblue;background:#fff;border-radius:2em;';
-const RSlog = ( message ) => { console.log( '%c ' + message, logStyle ); }
+RSlog = ( message ) => { console.log( '%c ' + message, logStyle ); }
 
 const appendContent = ( at, content, type, id ) => {
   const node = document.createElement( type );

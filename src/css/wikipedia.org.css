@@ -1,11 +1,73 @@
-p{
-    transition: opacity 0.1s ease;
-    opacity:0.33;
-}
-p:hover{
-    opacity:1;
+#mw-page-base, body{
+background:#fff;
 }
 
-#siteNotice{
-    display: none;
+.mw-body{
+border:1px solid #fff0;
+}
+
+#firstHeading{
+border-bottom:0;
+}
+
+#mw-page-base, #left-navigation{
+display:none;
+}
+
+#p-personal, #right-navigation, #siteSub{
+display:none;
+}
+
+*.thumbinner{
+border-radius:10px;
+border:0 !important; 
+padding:0 !important;
+}
+
+*.thumbcaption{
+padding:5px;
+}
+
+* .toc{
+border-radius:10px;
+border:0; 
+}
+
+*.thumbimage{
+border:0; 
+}
+
+.mw-editsection{
+display:none;
+}
+
+h2{
+border-bottom:1px solid #abb8;
+}
+
+.vector-menu{
+opacity:0.5;
+}
+
+footer{
+display:none;
+}
+
+.wikitable, table{
+border-radius:10px;
+border:0 !important; 
+overflow:hidden;
+}
+
+.mw-parser-output .navbox{
+border:0;
+}
+
+.catlinks{
+border:0;
+border-radius:10px;
+}
+
+.wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wikitable > * > tr > td{
+border:1px solid #abb2;
 }

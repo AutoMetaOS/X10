@@ -4,6 +4,20 @@
   font-size: 12px;
 }
 
-aside[aria-label="Explore"]{
+footer, aside[aria-label="Explore"]{
   display: none;
+}
+
+.Box-row{
+border-top-width:0;
+}
+
+.BorderGrid-cell, .Box--responsive{
+border:0;
+border-radius:0;
+}
+
+.BorderGrid--spacious .BorderGrid-cell{
+padding-top:10px;
+padding-bottom:10px;
 }
