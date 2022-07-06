@@ -1,0 +1,19 @@
+{
+  "name": "deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "events": "^3.3.0",
+    "rollup": "^2.74.1",
+    "rollup-plugin-node-polyfills": "^0.2.1"
+  }
+}

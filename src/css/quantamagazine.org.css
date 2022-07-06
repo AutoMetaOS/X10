@@ -1,13 +1,14 @@
-p{
-    transition: opacity 0.1s ease;
-    opacity:0.33;
-}
-p:hover{
-    opacity:1;
+.container--xs{
+    width: 100%;
+    max-width: 1400px;
 }
 
-.container--xs{
-    max-width: 1200px;
+.post__aside--right{
+    display: none;
+}
+
+.related-list{
+    display: none;
 }
 
 aside.post__sidebar:last-of-type{

@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,300;0,400;0,700;1,400;1,700&display=swap');
+
+#content{
+font-size: 16px;
+font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/*Citations*/
+.reference{
+display:none;
+}
+
+
 #mw-page-base, body{
 background:#fff;
 }

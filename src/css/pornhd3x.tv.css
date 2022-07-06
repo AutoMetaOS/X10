@@ -1,0 +1,13 @@
+.movies-list .ml-item{
+width:33%;
+height: auto !important;
+aspect-ratio: 16/9;
+}
+
+a[href*="javhd3x"] {
+display:none;
+}
+
+.mlw-related, footer{
+display:none;
+}

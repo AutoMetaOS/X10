@@ -1,7 +1,0 @@
-p{
-    transition: opacity 0.1s ease;
-    opacity:0.33;
-}
-p:hover{
-    opacity:1;
-}

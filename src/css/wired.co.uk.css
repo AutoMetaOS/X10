@@ -1,0 +1,6 @@
+.grid-layout__aside{
+    display: none;
+}
+.grid-layout__content{
+grid-column-end: span 10 !important;
+}
