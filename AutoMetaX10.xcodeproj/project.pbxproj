@@ -16,8 +16,6 @@
 		4A19F280217A7DA7000D503B /* AutoMetaX10 Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 4A19F26C217A7DA7000D503B /* AutoMetaX10 Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		4A206499217E446C0057CF1B /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A206498217E446C0057CF1B /* Config.swift */; };
 		4A20649A217E446C0057CF1B /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A206498217E446C0057CF1B /* Config.swift */; };
-		F4961E00285148BA00B490CF /* TODOs in Resources */ = {isa = PBXBuildFile; fileRef = F4961DFF285148BA00B490CF /* TODOs */; };
-		F4961E01285148BA00B490CF /* TODOs in Resources */ = {isa = PBXBuildFile; fileRef = F4961DFF285148BA00B490CF /* TODOs */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +61,6 @@
 		4A24259D2190C74800FF55AB /* Extension.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Extension.xcconfig; sourceTree = "<group>"; };
 		4A24259F2190C75900FF55AB /* Base.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Base.xcconfig; sourceTree = "<group>"; };
 		4AB939792258E91E0074EA61 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Version.xcconfig; sourceTree = "<group>"; };
-		F4961DFF285148BA00B490CF /* TODOs */ = {isa = PBXFileReference; lastKnownFileType = folder; path = TODOs; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,7 +123,6 @@
 		4A19F270217A7DA7000D503B /* Extension */ = {
 			isa = PBXGroup;
 			children = (
-				F4961DFF285148BA00B490CF /* TODOs */,
 				4A19F279217A7DA7000D503B /* script.js */,
 				4A19F278217A7DA7000D503B /* Info.plist */,
 				4A19F271217A7DA7000D503B /* SafariExtensionHandler.swift */,
@@ -258,7 +254,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A19F25D217A7D9B000D503B /* Assets.xcassets in Resources */,
-				F4961E00285148BA00B490CF /* TODOs in Resources */,
 				4A19F260217A7D9B000D503B /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -268,7 +263,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A19F27A217A7DA7000D503B /* script.js in Resources */,
-				F4961E01285148BA00B490CF /* TODOs in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
